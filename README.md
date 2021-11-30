@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winterphase
 - 👀 I’m interested in ... SQL and Backend Development
-- 🌱 I’m currently learning ... HTML, CSS & JavaScript
+- 🌱 I’m currently learning ... C#/dotnet
 - 💞️ I’m looking to collaborate on ... nada
 - 📫 How to reach me ... don't
 
